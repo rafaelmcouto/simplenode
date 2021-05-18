@@ -1,11 +1,11 @@
 ## Terraform para criar um bucket para o tfstate
 #### Este módulo faz a criação de:
 * **1 Bucket com as seguintes features:**
-  * _versionado_
-  * _Com lifecycle habiltado para:_
+  * _Versionamento habilitado_
+  * _Com lifecycle para:_
   * _30 dias >> One Zone IA_
   * _60 dias >> Glacier_
-  * _Criptografia com chave KMS_
+  * _Criptografia com chave **_KMS_**_
 
 
 
